@@ -12,7 +12,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [应用实例](#应用实例) 
 - [Demo示例](#Demo示例) 
 
-###UI组件 
+## UI组件 
 
 - [element](https://github.com/ElemeFE/element) ★11612 - 饿了么出品的Vue2的web UI工具套件 
 - [Vux](https://github.com/airyland/vux) ★7503 - 基于Vue和WeUI的组件库 
@@ -185,7 +185,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [dd-vue-component](https://github.com/ibufu/dd-vue-component) ★7 - 订单来了的公共组件库 
 - [vue-button](https://github.com/steven5538/vue-button) ★5 - Vue按钮组件 
 
-###开发框架 
+## 开发框架 
 
 - [vue.js](https://github.com/vuejs/vue) ★50611 - 流行的轻量高效的前端组件化方案 
 - [vue-admin](https://github.com/fundon/vue-admin) ★3909 - Vue管理面板框架 
@@ -205,7 +205,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue-webgulp](https://github.com/rodzzlessa24/vue-webgulp) ★104 - 仿VueJS Vue loader示例 
 - [vue-element-starter](https://github.com/Metnew/vue-element-starter) ★58 - vue启动页 
 
-###实用库 
+## 实用库 
 
 - [vuex](https://github.com/vuejs/vuex) ★6963 - 专为 Vue.js 应用程序开发的状态管理模式 
 - [vue-validator](https://github.com/vuejs/vue-validator) ★1713 - vue的验证器插件 
@@ -289,7 +289,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue-data-validator](https://github.com/phphe/vue-data-validator) ★4 - Vuejs2的数据验证插件 
 - [vue-lazyloadImg](https://github.com/yodfz/vue-lazyloadImg) ★4 - 图片懒加载插件 
 
-###服务端 
+## 服务端 
 
 - [nuxt.js](https://github.com/nuxt/nuxt.js) ★3655 - 用于服务器渲染Vue app的最小化框架 
 - [unvue](https://github.com/egoist/unvue) ★244 - 使用简单的通用VueJS应用 
@@ -299,7 +299,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [doubanMovie-SSR](https://github.com/monkeyWangs/doubanMovie-SSR) ★57 - Vue豆瓣电影服务端渲染 
 - [vue-easy-renderer](https://github.com/leaves4j/vue-easy-renderer) ★33 - Nodejs服务端渲染 
 
-###辅助工具 
+## 辅助工具 
 
 - [DejaVue](https://github.com/MiCottOn/DejaVue) ★595 - Vuejs可视化及压力测试 
 - [vue-play](https://github.com/vue-play/vue-play) ★533 - 展示Vue组件的最小化框架 
@@ -328,7 +328,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue-dashing-js](https://github.com/thelinuxlich/vue-dashing-js) ★70 - nuvo-dashing-js的fork 
 - [fewords](https://github.com/sapjax/fewords) ★57 - 功能极其简单的笔记本 
 
-###Demo示例 
+## Demo示例 
 
 - [vue2-elm](https://github.com/bailicangdu/vue2-elm) ★5628 - 重写饿了么webapp 
 - [Vue-cnodejs](https://github.com/shinygang/Vue-cnodejs) ★2347 - 基于vue重写Cnodejs.org的webapp 
