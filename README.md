@@ -108,7 +108,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue-region-picker](https://github.com/QingWei-Li/vue-region-picker) ★106 - 选择中国的省份市和地区 
 - [vue-baidu-map](https://github.com/Dafrok/vue-baidu-map) ★105 - 基于 Vue 2的百度地图组件库 
 - [vue-svgicon](https://github.com/MMF-FE/vue-svgicon) ★104 - 创建svg图标组件的工具 
-- [mavonEditor](https://github.com/hinesboy/mavonEditor) ★102 - 基于Vue的markdown编辑器 
+- [mavonEditor](https://github.com/hinesboy/mavonEditor) ★103 - 基于Vue的markdown编辑器 
 - [vue-highcharts](https://github.com/weizhenye/vue-highcharts) ★102 - HighCharts组件 
 - [vue-tooltip](https://github.com/Akryum/vue-tooltip) ★99 - 带绑定信息提示的提示工具 
 - [vue2-loading-bar](https://github.com/BosNaufal/vue2-loading-bar) ★99 - 最简单的仿Youtube加载条视图 
@@ -192,12 +192,12 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 
 ## 开发框架 
 
-- [vue.js](https://github.com/vuejs/vue) ★51827 - 流行的轻量高效的前端组件化方案 
+- [vue.js](https://github.com/vuejs/vue) ★51847 - 流行的轻量高效的前端组件化方案 
 - [vue-admin](https://github.com/fundon/vue-admin) ★4080 - Vue管理面板框架 
 - [quasar](https://github.com/quasarframework/quasar) ★1926 - 响应式网站和混合移动应用程序 
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) ★1749 - Electron及VueJS快速启动样板 
 - [vuepack](https://github.com/egoist/vuepack) ★1496 - 现代VueJS启动器 
-- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) ★794 - vue2管理系统模板 
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) ★799 - vue2管理系统模板 
 - [N3-components](https://github.com/N3-components/N3-components) ★642 - 快速构建页面和应用 
 - [vue-2.0-boilerplate](https://github.com/petervmeijgaard/vue-2.0-boilerplate) ★315 - Vue2单页应用样板​ 
 - [vue-spa-template](https://github.com/hanan198501/vue-spa-template) ★305 - 前后端分离后的单页应用开发 
@@ -215,7 +215,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 
 - [vuex](https://github.com/vuejs/vuex) ★7215 - 专为 Vue.js 应用程序开发的状态管理模式 
 - [vue-validator](https://github.com/vuejs/vue-validator) ★1732 - vue的验证器插件 
-- [vue-loader](https://github.com/vuejs/vue-loader) ★1684 - Vue.js 针对Webpack的组件装载插件 
+- [vue-loader](https://github.com/vuejs/vue-loader) ★1685 - Vue.js 针对Webpack的组件装载插件 
 - [vue-lazyload](https://github.com/hilongjw/vue-lazyload) ★1040 - 用于懒加载的Vue模块 
 - [vuelidate](https://github.com/monterail/vuelidate) ★959 - 简单轻量级的基于模块的Vue.js验证 
 - [vue-i18n](https://github.com/kazupon/vue-i18n) ★915 - VueJS的多语言切换插件 
@@ -323,7 +323,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue-manage-system](https://github.com/lin-xin/vue-manage-system) ★1733 - 后台管理系统解决方案 
 - [vuedo](https://github.com/Vuedo/vuedo) ★1172 - 博客平台 
 - [jackblog-vue](https://github.com/jackhutu/jackblog-vue) ★1044 - 个人博客系统 
-- [PJ Blog](https://github.com/jcc/PJ Blog) ★915 - 开源博客 
+- [PJ Blog](https://github.com/jcc/blog) ★915 - 开源博客 
 - [vue-cnode](https://github.com/lzxb/vue-cnode) ★725 - 重写vue版cnode社区 
 - [vms](https://github.com/ericjjj/vms) ★550 - vuejs2管理系统 
 - [CMS-of-Blog](https://github.com/ycwalker/CMS-of-Blog) ★492 - 博客内容管理器 
