@@ -15,7 +15,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 ## UI组件 
 
 - [element](https://github.com/ElemeFE/element) ★12054 - 饿了么出品的Vue2的web UI工具套件 
-- [Vux](https://github.com/airyland/vux) ★7636 - 基于Vue和WeUI的组件库 
+- [Vux](https://github.com/airyland/vux) ★7637 - 基于Vue和WeUI的组件库 
 - [iview](https://github.com/iview/iview) ★5979 - 基于 Vuejs 的开源 UI 组件库 
 - [mint-ui](https://github.com/ElemeFE/mint-ui) ★5677 - Vue 2的移动UI元素 
 - [vue-material](https://github.com/marcosmoura/vue-material) ★2887 - 通过Vue Material和Vue 2建立精美的app应用 
@@ -367,7 +367,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue2-MiniQQ](https://github.com/jiangqizheng/vue2-MiniQQ) ★294 - 基于Vue2实现的仿手机QQ单页面应用 
 - [mi-by-vue](https://github.com/wendaosanshou/mi-by-vue) ★264 - VueJS仿小米官网 
 - [vue-leancloud-blog](https://github.com/jiangjiu/vue-leancloud-blog) ★259 - 一个前后端完全分离的单页应用 
-- [node-vue-server-webpack](https://github.com/yjj5855/node-vue-server-webpack) ★247 - Node.js+Vue.js+webpack快速开发框架 
+- [node-vue-server-webpack](https://github.com/yjj5855/node-vue-server-webpack) ★248 - Node.js+Vue.js+webpack快速开发框架 
 - [daily-zhihu](https://github.com/walleeeee/daily-zhihu) ★228 - 基于Vue2的知乎日报单页应用 
 - [vue-fis3](https://github.com/okoala/vue-fis3) ★211 - 流行开源工具集成demo 
 - [vue-adminLte-vue-router](https://github.com/liujians/vue-adminLte-vue-router) ★209 - vue和adminLte整合应用 
