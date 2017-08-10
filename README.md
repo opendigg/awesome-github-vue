@@ -350,6 +350,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [jackblog-vue](https://github.com/jackhutu/jackblog-vue) ★1120 - 个人博客系统 
 - [PJ Blog](https://github.com/jcc/blog) ★1018 - 开源博客 
 - [vue-cnode](https://github.com/lzxb/vue-cnode) ★787 - 重写vue版cnode社区 
+- [wechat-admin](https://github.com/dongweiming/wechat-admin) ★663 - 微信管理系统
 - [vms](https://github.com/ericjjj/vms) ★629 - vuejs2管理系统 
 - [CMS-of-Blog](https://github.com/ycwalker/CMS-of-Blog) ★541 - 博客内容管理器 
 - [goldfish](https://github.com/Caiyeon/goldfish) ★518 - 用于HashiCorp Vault的Admin UI 
