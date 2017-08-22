@@ -204,6 +204,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue-cascading-address](https://github.com/savokiss/vue-cascading-address) ★9 - vue地区选择器 
 - [dd-vue-component](https://github.com/ibufu/dd-vue-component) ★7 - 订单来了的公共组件库 
 - [vue-button](https://github.com/steven5538/vue-button) ★5 - Vue按钮组件 
+- [vue-mavonEditor](https://github.com/hinesboy/mavonEditor)  ★340 - 基于Vue的Markdown编辑器插件
 
 ## 开发框架 
 
