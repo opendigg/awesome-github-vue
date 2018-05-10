@@ -204,6 +204,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue-cascading-address](https://github.com/savokiss/vue-cascading-address) ★9 - vue地区选择器 
 - [dd-vue-component](https://github.com/ibufu/dd-vue-component) ★7 - 订单来了的公共组件库 
 - [vue-button](https://github.com/steven5538/vue-button) ★5 - Vue按钮组件 
+- [vue-datepicker-infinite](https://github.com/leepyng/vue-datepicker-infinite) ★1 - vue2单页下拉滚动日历组件
 
 ## 开发框架 
 
