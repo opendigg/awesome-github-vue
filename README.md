@@ -48,6 +48,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★615 - 基于Quill适用于Vue2的富文本编辑器 
 - [vue-amap](https://github.com/ElemeFE/vue-amap) ★571 - 基于Vue 2和高德地图的地图组件 
 - [vue-calendar](https://github.com/jinzhe/vue-calendar) ★536 - 日期选择插件 
+- [vue-mobile-calendar](https://github.com/lx544690189/vue-mobile-calendar) ★42-移动端vue日期选择组件
 - [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) ★501 - VueJS的无限滚动插件 
 - [vue-swipe](https://github.com/ElemeFE/vue-swipe) ★481 - VueJS触摸滑块 
 - [vue-music-player](https://github.com/microzz/vue-music-player) ★451 - Vuejs写一个音乐播放器 
