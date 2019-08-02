@@ -364,6 +364,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [fewords](https://github.com/sapjax/fewords) ★63 - 功能极其简单的笔记本 
 - [adminify](https://github.com/wxs77577/adminify) ★46 - 一个基于Vuetify material的Admin面板 
 
+
 ## Demo示例 
 
 - [vue2-elm](https://github.com/bailicangdu/vue2-elm) ★8036 - 重写饿了么webapp 
@@ -384,6 +385,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [maizuo](https://github.com/zhengguorong/maizuo) ★603 - vue/vuex/redux仿卖座网 
 - [vue-WeChat](https://github.com/zhaohaodang/vue-WeChat) ★558 - 基于Vue2高仿微信App的单页应用 
 - [vue-demo-kugou](https://github.com/lavyun/vue-demo-kugou) ★500 - vuejs仿写酷狗音乐webapp 
+- [laravel_template_with_vue](https://github.com/wmhello/laravel_template_with_vue)★479 -  一个前后端分离的管理面板 除了常用的管理功能开箱即用外还有聊天室和客服示列
 - [vue2-manage](https://github.com/bailicangdu/vue2-manage) ★457 - 基于 vue + element-ui 的后台管理系统 
 - [zhihudaily-vue](https://github.com/yatessss/zhihudaily-vue) ★455 - 知乎日报web版 
 - [vue-163-music](https://github.com/ShanaMaid/vue-163-music) ★448 - vue仿网易云音乐客户端版 
