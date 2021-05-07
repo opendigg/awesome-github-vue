@@ -290,6 +290,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [cleave](https://github.com/vue-bulma/cleave) ★64 - 基于cleave.js的Cleave组件 
 - [vuemit](https://github.com/gocanto/vuemit) ★63 - 处理VueJS事件 
 - [vue-worker](https://github.com/israelss/vue-worker) ★56 - 使用webworkers的Vue插件 
+- [transx](https://github.com/tnfe/transx) ★56 - 一个小巧玲珑的 vue 组件切换动画库, 支持 20 几种动画切换方式 
 - [vue-acl](https://github.com/leonardovilarinho/vue-acl) ★54 - VueJS访问控制列表插件 
 - [vue-ts-loader](https://github.com/HerringtonDarkholme/vue-ts-loader) ★54 - 在Vue装载机检查脚本 
 - [Vue.resize](https://github.com/David-Desmaisons/Vue.resize) ★51 - 检测HTML调整大小事件的vue指令 
