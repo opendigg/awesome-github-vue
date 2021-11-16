@@ -204,6 +204,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue-cascading-address](https://github.com/savokiss/vue-cascading-address) ★9 - vue地区选择器 
 - [dd-vue-component](https://github.com/ibufu/dd-vue-component) ★7 - 订单来了的公共组件库 
 - [vue-button](https://github.com/steven5538/vue-button) ★5 - Vue按钮组件 
+- [vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) ★190 - vue3-openlayers 是一个组件库，它将强大的 OpenLayers API 带入了 Vue3 响应式世界。 它可以显示带有从不同来源加载的平铺、光栅或矢量图层的地图。 (Vue 3.x) 
 
 ## 开发框架 
 
