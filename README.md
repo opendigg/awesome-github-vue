@@ -320,7 +320,8 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue-router-storage](https://github.com/ElderJames/vue-router-storage) ★9 - vue历史路由持久化的解决方案 
 - [vue-input-autosize](https://github.com/syropian/vue-input-autosize) ★9 - 基于内容自动调整文本输入的大小 
 - [vue-data-validator](https://github.com/phphe/vue-data-validator) ★4 - Vuejs2的数据验证插件 
-- [vue-lazyloadImg](https://github.com/yodfz/vue-lazyloadImg) ★4 - 图片懒加载插件 
+- [vue-lazyloadImg](https://github.com/yodfz/vue-lazyloadImg) ★4 - 图片懒加载插件
+- [vue3-dnd](https://github.com/hcg1023/vue3-dnd) ★21 - 基于React Dnd的Vue3实现，高自由度的拖拽实现
 
 ## 服务端 
 
