@@ -495,3 +495,4 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue-shopping-mall](https://github.com/hj624608494/vue-shopping-mall) ★16 - 基于Vue.js 2.x系列 + vue2-router + axios + iview 商城 
 - [qqmusic](https://github.com/yangbo5207/qqmusic) ★13 - QQ音乐vue 
 - [vue-weather](https://github.com/deshes/vue-weather) ★12 - VueJS天气demo 
+- [tov-template](https://github.com/dishait/tov-template) ★232 - vite + vue3 + ts 开箱即用现代开发模板
