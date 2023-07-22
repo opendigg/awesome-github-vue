@@ -372,7 +372,8 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) ★1535 - vue2及vuex的入门练习项目 
 - [vue-zhihu-daily](https://github.com/hilongjw/vue-zhihu-daily) ★1010 - 知乎日报 with Vuejs 
 - [vue2-demo](https://github.com/lzxb/vue2-demo) ★994 - 从零构建vue2 + vue-router + vuex 开发环境 
-- [vue-wechat](https://github.com/useryangtao/vue-wechat) ★939 - vue.js开发微信app界面 
+- [vue-wechat](https://github.com/useryangtao/vue-wechat) ★939 - vue.js开发微信app界面
+- [laravel_template_with_vue](https://github.com/wmhello/laravel_template_with_vue) ★921 - laravel6和vue.js结合的前后端分离项目模板。
 - [eleme](https://github.com/liangxiaojuan/eleme) ★882 - 高仿饿了么app商家详情 
 - [vue-demo](https://github.com/kenberkeley/vue-demo) ★755 - vue简易留言板 
 - [bilibili-vue](https://github.com/lybenson/bilibili-vue) ★694 - 全栈式开发bilibili首页 
