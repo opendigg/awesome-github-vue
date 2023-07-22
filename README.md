@@ -348,7 +348,8 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue-manage-system](https://github.com/lin-xin/vue-manage-system) ★2057 - 后台管理系统解决方案 
 - [vuedo](https://github.com/Vuedo/vuedo) ★1265 - 博客平台 
 - [jackblog-vue](https://github.com/jackhutu/jackblog-vue) ★1120 - 个人博客系统 
-- [PJ Blog](https://github.com/jcc/blog) ★1018 - 开源博客 
+- [PJ Blog](https://github.com/jcc/blog) ★1018 - 开源博客
+- [laravel_template_with_vue](https://github.com/wmhello/laravel_template_with_vue) ★921 - laravel6和vue.js结合的前后端分离项目模板。
 - [vue-cnode](https://github.com/lzxb/vue-cnode) ★787 - 重写vue版cnode社区 
 - [vms](https://github.com/ericjjj/vms) ★629 - vuejs2管理系统 
 - [CMS-of-Blog](https://github.com/ycwalker/CMS-of-Blog) ★541 - 博客内容管理器 
@@ -372,7 +373,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) ★1535 - vue2及vuex的入门练习项目 
 - [vue-zhihu-daily](https://github.com/hilongjw/vue-zhihu-daily) ★1010 - 知乎日报 with Vuejs 
 - [vue2-demo](https://github.com/lzxb/vue2-demo) ★994 - 从零构建vue2 + vue-router + vuex 开发环境 
-- [vue-wechat](https://github.com/useryangtao/vue-wechat) ★939 - vue.js开发微信app界面 
+- [vue-wechat](https://github.com/useryangtao/vue-wechat) ★939 - vue.js开发微信app界面
 - [eleme](https://github.com/liangxiaojuan/eleme) ★882 - 高仿饿了么app商家详情 
 - [vue-demo](https://github.com/kenberkeley/vue-demo) ★755 - vue简易留言板 
 - [bilibili-vue](https://github.com/lybenson/bilibili-vue) ★694 - 全栈式开发bilibili首页 
